@@ -8,7 +8,7 @@ Note:  In every case suburban cities slotted in between urban and rural as would
 Extra:  While not part of the challenge I believe that the below graph does a good job of showing the correlation between the the city type/size and the number of rides and average rate.<br />
 ![Bubble Chart](https://github.com/RudyR32/Pyber_Analysis/blob/master/analysis/Fig1.png) <br />
 ## Multiple Line Graph Analysis
-![Multiple Line Graph of Weekly Fares](https://github.com/RudyR32/Pyber_Analysis/blob/master/analysis/Fig11.png) <br />
+![Multiple Line Graph of Weekly Fares](https://github.com/RudyR32/Pyber_Analysis/blob/master/analysis/Fig11.PNG) <br />
 The above figure gives a visual representation of the total weekly fares between January and April in the 3 city types(Rural, Suburban and Urban).  Urban cities are by far the largest total fare producers with there total weekly fares peaking around $2500 verses ~$1400 in suburban cities and ~$500 in rural cities.  For comparison sake this equates being urban weekly fares being about 2x those of suburban cities and between 5x and 10x that of rural cities depending on the week.
 <br />
 ## Additional Implications of the Analysis
